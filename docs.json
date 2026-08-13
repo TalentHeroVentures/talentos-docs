@@ -40,8 +40,9 @@
     ]
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/images/th-os-logo_1.svg",
+    "dark": "/images/th-os-logo_1.svg",
+    "href": "https://talentostech.com/"
   },
   "navbar": {
     "links": [
@@ -74,5 +75,8 @@
       "github": "https://github.com/mintlify",
       "linkedin": "https://linkedin.com/company/mintlify"
     }
+  },
+  "appearance": {
+    "strict": true
   }
 }
